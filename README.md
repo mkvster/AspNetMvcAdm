@@ -1,4 +1,6 @@
 # AspNetMvcAdm
-Template for ASP.NET MVC 4 with additional identity functionality:
+Template for ASP.NET MVC 4 with admin's extras 
 
-Administration of Roles and Users
+Additional functionality for admins:
+* Roles
+* Users
